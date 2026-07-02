@@ -1,0 +1,11 @@
+{
+  "name": "grimoire",
+  "version": "0.1.0",
+  "description": "Second-brain system for capturing, organizing, and retrieving knowledge",
+  "author": {
+    "name": "Kerry Hatcher",
+    "email": "kerry@kerryhatcher.com"
+  },
+  "license": "MIT",
+  "keywords": ["second-brain", "knowledge-management", "notes", "pkm"]
+}

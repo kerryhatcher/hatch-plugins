@@ -1,0 +1,19 @@
+{
+  "name": "plugin-marketplace",
+  "owner": {
+    "name": "Kerry Hatcher",
+    "email": "kerry@kerryhatcher.com"
+  },
+  "description": "Kerry Hatcher's AI tools marketplace for Claude Code",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "grimoire",
+      "source": "./grimoire",
+      "description": "Second-brain system for capturing, organizing, and retrieving knowledge",
+      "version": "0.1.0"
+    }
+  ]
+}
