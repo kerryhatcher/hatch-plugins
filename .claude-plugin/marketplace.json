@@ -10,12 +10,6 @@
   },
   "plugins": [
     {
-      "name": "grimoire",
-      "source": "./grimoire",
-      "description": "Second-brain system for capturing, organizing, and retrieving knowledge",
-      "version": "0.1.0"
-    },
-    {
       "name": "status-line",
       "source": {
         "source": "url",

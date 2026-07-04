@@ -13,14 +13,14 @@ Add this marketplace in Claude Code:
 Then install a plugin from it:
 
 ```
-/plugin install grimoire@plugin-marketplace
+/plugin install status-line@plugin-marketplace
 ```
 
 ## Plugins
 
 | Plugin | Description |
 |--------|-------------|
-| [grimoire](plugins/grimoire) | Second-brain system for capturing, organizing, and retrieving knowledge |
+| [status-line](https://github.com/kerryhatcher/status-line) | A rich terminal status line for Claude Code showing model, context usage, active tasks, and project state. |
 
 ## Repo layout
 
@@ -28,9 +28,7 @@ Then install a plugin from it:
 plugin-marketplace/
 ├── .claude-plugin/
 │   └── marketplace.json   # marketplace manifest
-└── plugins/
-    └── grimoire/           # one directory per plugin
-        └── .claude-plugin/plugin.json
+└── plugins/                # one directory per locally-hosted plugin
 ```
 
 To add a new plugin, create a directory under `plugins/`, give it a `.claude-plugin/plugin.json`, and add an entry to `.claude-plugin/marketplace.json`.
