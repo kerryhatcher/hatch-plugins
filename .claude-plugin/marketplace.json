@@ -14,6 +14,16 @@
       "source": "./grimoire",
       "description": "Second-brain system for capturing, organizing, and retrieving knowledge",
       "version": "0.1.0"
+    },
+    {
+      "name": "status-line",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kerryhatcher/status-line.git",
+        "sha": "77e0b703671e886afa8244d99d299a54f14d8795"
+      },
+      "description": "A rich terminal status line for Claude Code showing model, context usage, active tasks, and project state.",
+      "version": "0.1.0"
     }
   ]
 }
