@@ -1,4 +1,4 @@
-# plugin-marketplace
+# hatch-plugins
 
 Kerry Hatcher's AI tools marketplace for [Claude Code](https://code.claude.com/docs/en/plugin-marketplaces.md) plugins.
 
@@ -7,13 +7,13 @@ Kerry Hatcher's AI tools marketplace for [Claude Code](https://code.claude.com/d
 Add this marketplace in Claude Code:
 
 ```
-/plugin marketplace add kerryhatcher/plugin-marketplace
+/plugin marketplace add kerryhatcher/hatch-plugins
 ```
 
 Then install a plugin from it:
 
 ```
-/plugin install status-line@plugin-marketplace
+/plugin install status-line@hatch-plugins
 ```
 
 ## Plugins
@@ -25,7 +25,7 @@ Then install a plugin from it:
 ## Repo layout
 
 ```
-plugin-marketplace/
+hatch-plugins/
 ├── .claude-plugin/
 │   └── marketplace.json   # marketplace manifest
 └── plugins/                # one directory per locally-hosted plugin
