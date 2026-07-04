@@ -14,7 +14,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/kerryhatcher/status-line.git",
-        "sha": "77e0b703671e886afa8244d99d299a54f14d8795"
+        "sha": "158f692791a6b3990b562910c47dcad9f3e0d277"
       },
       "description": "A rich terminal status line for Claude Code showing model, context usage, active tasks, and project state.",
       "version": "0.1.0"
