@@ -18,6 +18,16 @@
       },
       "description": "A rich terminal status line for Claude Code showing model, context usage, active tasks, and project state.",
       "version": "0.1.0"
+    },
+    {
+      "name": "nobots",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kerryhatcher/nobot.git",
+        "sha": "556634a557408d51c5dad722036669170e945596"
+      },
+      "description": "Humanize prose as Claude writes it, detect AI-sounding text on demand, and audit documents for AI writing tells - grounded in a research-backed field guide.",
+      "version": "0.1.0"
     }
   ]
 }
