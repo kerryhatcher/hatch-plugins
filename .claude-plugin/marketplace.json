@@ -24,7 +24,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/kerryhatcher/nobot.git",
-        "sha": "556634a557408d51c5dad722036669170e945596"
+        "sha": "27e6ce0f65c28ef563db7aa2fd997aff4d86724d"
       },
       "description": "Humanize prose as Claude writes it, detect AI-sounding text on demand, and audit documents for AI writing tells - grounded in a research-backed field guide.",
       "version": "0.1.0"
