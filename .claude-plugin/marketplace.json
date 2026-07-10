@@ -35,7 +35,7 @@
         "source": "git-subdir",
         "url": "https://github.com/kerryhatcher/whachadoin.git",
         "path": "plugin",
-        "sha": "005c136bbe6accfb341930373484752c51bd9b16"
+        "ref": "main"
       },
       "description": "Log work, manage persistent cross-session todos, and answer \"what am I working on\" / \"what did I work on last week\" by driving the kwd CLI.",
       "version": "0.2.0"
