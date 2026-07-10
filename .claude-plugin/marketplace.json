@@ -28,6 +28,17 @@
       },
       "description": "Humanize prose as Claude writes it, detect AI-sounding text on demand, and audit documents for AI writing tells - grounded in a research-backed field guide.",
       "version": "0.1.0"
+    },
+    {
+      "name": "whachadoin",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/kerryhatcher/whachadoin.git",
+        "path": "plugin",
+        "ref": "main"
+      },
+      "description": "Log work, manage persistent cross-session todos, and answer \"what am I working on\" / \"what did I work on last week\" by driving the kwd CLI.",
+      "version": "0.2.0"
     }
   ]
 }
